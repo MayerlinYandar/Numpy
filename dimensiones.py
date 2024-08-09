@@ -26,4 +26,4 @@ print(expand.ndim)
 #eliminar
 vector_2 = np.squeeze(vectorr)
 print(vector_2, vectorr.ndim)
-#NEW CHANGE
+# Cambio para subir mediante visualstudiocode
